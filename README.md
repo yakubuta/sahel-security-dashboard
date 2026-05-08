@@ -4,7 +4,8 @@ An interactive conflict intelligence dashboard visualizing armed violence across
 
 Built with Python and Streamlit using open-source conflict event data from the Uppsala Conflict Data Program (UCDP).
 
----
+Live Demo: [View Dashboard](https://sahel-security-dashboard-kspvvdsmpnczxakfk7owbx.streamlit.app/)
+
 
 ## 📸 Features
 
