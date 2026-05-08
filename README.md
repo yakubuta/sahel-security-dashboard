@@ -14,7 +14,7 @@ Live Demo: [View Dashboard](https://sahel-security-dashboard-kspvvdsmpnczxakfk7o
 ![Top Conflicts](assets/top_ten.png)
 ![Raw Data](assets/raw_data.png)
 
-## 📸 Features
+##  ✨ Features
 
 - **Interactive Conflict Map** — heatmap and clustered marker views with event popups
 - **Timeline Analysis** — monthly conflict trends colored by death toll
