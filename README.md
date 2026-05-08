@@ -6,6 +6,13 @@ Built with Python and Streamlit using open-source conflict event data from the U
 
 Live Demo: [View Dashboard](https://sahel-security-dashboard-kspvvdsmpnczxakfk7owbx.streamlit.app/)
 
+## 📸 Screenshots
+
+![Dashboard Overview](assets/dashboard.png)
+![Conflict Map](assets/map.png)
+![Charts](assets/chart.png)
+![Top Conflicts](assets/top_ten.png)
+![Raw Data](assets/raw_data.png)
 
 ## 📸 Features
 
