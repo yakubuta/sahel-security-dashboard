@@ -1,0 +1,39 @@
+Keywords (actual English words Python uses)
+
+def — short for "define", used to create a function
+if — "if this is true, do this"
+elif — short for "else if", checks another condition
+else — "if nothing above was true, do this"
+for — starts a loop, "for each item do this"
+while — keeps looping as long as something is true
+in — "inside of", used in loops like for x in list
+import — brings in extra tools Python doesn't load by default
+return — sends a value back out of a function
+True / False — the only two boolean values, capital T and F always
+break — exits a loop immediately
+
+
+Symbols
+
+: — colon, means "the block below belongs to this line", always after if, else, def, for, while
+= — assigns a value, like age = 22 means "age gets the value 22"
+== — checks if two things are equal, like if age == 22
+!= — means "not equal to"
+> — greater than
+< — less than
+>= — greater than or equal to
+<= — less than or equal to
++ — addition, also joins two strings together
+- — subtraction
+* — multiplication
+/ — division
++= — adds to itself, attempts += 1 means attempts = attempts + 1
+() — parentheses, used to call functions and pass values into them
+[] — square brackets, used to create a list like [1, 2, 3]
+{} — curly brackets, used to create a dictionary like {"name": "Yakubu"}
+"" or '' — quotation marks, anything inside is a string (text)
+# — comment, Python ignores everything after this on the same line, used for notes
+
+
+Indentation (spaces)
+Not a symbol but critical — Python uses 4 spaces at the start of a line to know what belongs inside an if, def, for etc. Get this wrong and your code breaks, as you already experienced. 😄
